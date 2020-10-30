@@ -1,0 +1,140 @@
+ @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+ @import url('https://fonts.googleapis.com/css?family=Syne&display=swap');
+            body {
+            	margin: auto;
+            	background: #FFFFFF;
+            	font-family: 'Work Sans', sans-serif;
+            	font-weight: 800;
+              font-size: 30;
+            }
+
+
+             @import url('https://fonts.googleapis.com/css?family=Syne&display=swap');
+            .below-header{
+              font-family: 'Syne', sans-serif;
+              text-align: justify;
+              width: 1200px;
+              margin: 0 auto;
+              padding: 110px 0px 130px 0px
+            }
+
+            .after-found{
+              font-family: 'Syne', sans-serif;
+              text-align: justify;
+              width: 1200px;
+              margin: 0 auto;
+              padding: 0px 0px 130px 0px
+            }
+
+            div a{
+              color: black;
+              text-decoration: none;
+            }
+
+            .hover:hover{
+              text-decoration: underline;
+              color: #ff0003;;
+              transition: all ease-in-out 250ms
+            }
+
+            .menu{
+             background-color: 	#ff0001;
+             position: fixed;
+             list-style-type: : none;
+             margin-top: 0px;
+             padding: 0;
+             top: 0;
+             left: 0;
+             right: 0;
+             padding-top: 15px;
+             padding-bottom: 15px;
+             padding-right: 15px;
+             font-size: 25px;
+             font-family: Syne, sans-serif;
+            }
+
+            .navbar{
+             display: inline-grid;
+             padding-left: 40px;
+            }
+
+            .left1{
+             color: white;
+             padding-right: 1070px
+            }
+
+            .linkdecoration{
+             color: white;
+             text-decoration: none;
+            }
+
+          #mySidenav a {
+            margin-top: 100px;
+            position: fixed;
+            transition: 0.3s;
+            padding: 15px;
+            padding-right: 15px
+            width: 100px;
+            text-decoration: none;
+            font-size: 20px;
+            font-family: Syne, sans-serif;
+            color: black;
+            border-radius: 0 5px 5px 0;
+            z-index: 1;
+          }
+
+          #mySidenav a:hover {
+            left: 0;
+          }
+
+          #html {
+            font-family: Syne, sans-serif;
+            top: 165px;
+            background-color: #2196F3;
+            left: -66.5px;
+          }
+
+          #css {
+            font-family: Syne, sans-serif;
+            top: 255px;
+            background-color: #F56040;
+            left: -115px;
+          }
+
+          #javascript {
+            font-family: Syne, sans-serif;
+            top: 350px;
+            background-color: yellow;
+            left: -117px;
+          }
+
+          #sql {
+            font-family: Syne, sans-serif;
+            top: 445px;
+            background-color: #90EE90;
+            left: -113px;
+          }
+
+          .color0{
+            color: #7CFC00;
+          }
+
+          .color1{
+            color: #4267B2;
+          }
+
+          .color2{
+            color: #E1306C;
+          }
+
+          .color3{
+            color: #1DA1F2;
+          }
+
+          .color4{
+            color: #FF0000;
+          }
+
+          .imgpad{
+            padding-top: 75px;
+          }
